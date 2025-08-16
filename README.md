@@ -1,2 +1,0 @@
-# AWS-project
-aws project
